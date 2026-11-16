@@ -112,6 +112,7 @@ This compact index contains every current task and subtask. Treat names and slug
 - `3d-pose-estimation` — 3D Pose Estimation
 - `3d-reconstruction` — 3D Reconstruction
 - `3d-scene-graph-generation` — 3D Scene Graph Generation
+- `3d-semantic-scene-completion` — 3D Semantic Scene Completion
 - `3d-semantic-segmentation` — 3D semantic segmentation
 - `3D-tracking` — 3D Tracking
 - `3d-understanding` — 3D understanding
@@ -277,6 +278,7 @@ This compact index contains every current task and subtask. Treat names and slug
 - `multimodal-sentiment-analysis` — Multimodal Sentiment Analysis
 - `named-entity-recognition` — Named Entity Recognition
 - `natural-language-inference` — Natural Language Inference
+- `neural-architecture-search` — Neural Architecture Search
 - `no-reference-image-quality-assessment` — No-Reference Image Quality Assessment
 - `node-classification` — Node Classification
 - `non-rigid-3d-shape-correspondence` — Non-rigid 3D Shape Correspondence
